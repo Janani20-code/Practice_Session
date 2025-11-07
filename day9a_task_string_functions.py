@@ -25,7 +25,7 @@ print("checking if it is alphabets:",a.isalpha())
 
 #29.check if a string has only numbers using isdigit()
 a="1234"
-print("checking if it is number:",a.isnum())
+print("checking if it is number:",a.isdigit())
 
 #30.check if a string has both alphabets and numbers using isalnum()
 a="janani20code"
